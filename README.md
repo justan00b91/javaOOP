@@ -1,4 +1,4 @@
-#Java programs to demonstrate concepts of OOP.
+Java programs to demonstrate concepts of OOP.
 ==============================================
 
 * REQUIREMENTS:
@@ -6,6 +6,7 @@ The programs are needed to be compiled before running them.
 1. Installing JAVA:
 
 '''
+
 <p>sudo su
    yum install java-devel
 </p>

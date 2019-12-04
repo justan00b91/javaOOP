@@ -50,7 +50,7 @@ The final method is the main method which class all the methods and creates obje
   Creating Class
 
 Name-->justan00b
-Lucky number-->5
+Lucky number-->7
 
 Inheritance
 

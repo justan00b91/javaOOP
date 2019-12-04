@@ -5,8 +5,7 @@ Java programs to demonstrate concepts of OOP.
 The programs are needed to be compiled before running them.
 1. Installing JAVA:
 
-'''
-
+'''bash
 <p>sudo su
    yum install java-devel
 </p>
@@ -15,14 +14,14 @@ The programs are needed to be compiled before running them.
 * USAGE:
 First compile the programs in order to execute the classes.
 
-'''
+'''bash
 <p>javac super1.java
    javac sub.java
 </p>
 '''
 
 Then to execute them,
-'''
+'''bash
 <p>java sub</p>
 '''
 
@@ -34,7 +33,7 @@ The constructor initialises the variable color and checks its value from a varia
 and later printing the new value of the variable thereby demonstrating the concept of #Data-Abstraction.
 
 The next method 'classcall()' calls functions of other class and provides parameters to the methods called.
-This demonstrates the concept of creating #Classes and calling it from other classes.
+This demonstrates the concept of creating ## Classes and calling it from other classes.
 
 The next method is 'identify()' which displays the methods of this class(sub) and the class extended(super).
 The method helps in understanding the concept of #Inheritance as it inherits features of the super class.

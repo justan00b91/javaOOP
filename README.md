@@ -6,26 +6,24 @@ The programs are needed to be compiled before running them.
 1. Installing JAVA:
 
 ```bash
-<p>sudo su
-   yum install java-devel
-</p>
+sudo su
+yum install java-devel
 ```
 
-* USAGE:
+* ## USAGE:
 First compile the programs in order to execute the classes.
 
 ```bash
-<p>javac super1.java
-   javac sub.java
-</p>
+javac super1.java
+javac sub.java
 ```
 
 Then to execute them,
 ```bash
-<p>java sub</p>
+java sub
 ```
 
-* DESCRIPTION:
+* ## DESCRIPTION:
 The following program file (sub.java) contains a code that implements certain concepts of 
 Object-Oriented Programming Language(OOP).
 
@@ -48,8 +46,7 @@ The final method is the main method which class all the methods and creates obje
 
 * OUTPUT:
 
-```
-<p>
+```bash
   Creating Class
 
 Name-->justan00b
@@ -72,7 +69,4 @@ red
 Encapsulation
 
 NONE
-
-
-</p>
 ``` 

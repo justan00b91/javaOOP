@@ -28,19 +28,19 @@ The following program file (sub.java) contains a code that implements certain co
 Object-Oriented Programming Language(OOP).
 
 The constructor initialises the variable color and checks its value from a variable of interface 'interface1'
-and later printing the new value of the variable thereby demonstrating the concept of #Data-Abstraction.
+and later printing the new value of the variable thereby demonstrating the concept of Data-Abstraction.
 
 The next method 'classcall()' calls functions of other class and provides parameters to the methods called.
-This demonstrates the concept of creating ## Classes and calling it from other classes.
+This demonstrates the concept of creating Classes and calling it from other classes.
 
 The next method is 'identify()' which displays the methods of this class(sub) and the class extended(super).
-The method helps in understanding the concept of #Inheritance as it inherits features of the super class.
+The method helps in understanding the concept of Inheritance as it inherits features of the super class.
 
-The next two methods are overloaded.Overloading is the type of #PolyMorphism in which functions are re-used by changing
+The next two methods are overloaded.Overloading is the type of PolyMorphism in which functions are re-used by changing
 the types of their formal parameters and return types.
 
 The next two methods are get/set methods which lets other classes which (if in future) calls this sub class, help in changing 
-the update of the private data members.This allows the concept of #Encapsulation to come into demonstration.
+the update of the private data members.This allows the concept of Encapsulation to come into demonstration.
 
 The final method is the main method which class all the methods and creates objects for the working of the class file.
 

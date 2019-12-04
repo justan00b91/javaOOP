@@ -5,25 +5,25 @@ Java programs to demonstrate concepts of OOP.
 The programs are needed to be compiled before running them.
 1. Installing JAVA:
 
-' ' 'bash
+```bash
 <p>sudo su
    yum install java-devel
 </p>
-' ' '
+```
 
 * USAGE:
 First compile the programs in order to execute the classes.
 
-' ' 'bash
+```bash
 <p>javac super1.java
    javac sub.java
 </p>
-' ' '
+```
 
 Then to execute them,
-' ' 'bash
+```bash
 <p>java sub</p>
-' ' '
+```
 
 * DESCRIPTION:
 The following program file (sub.java) contains a code that implements certain concepts of 
@@ -48,7 +48,7 @@ The final method is the main method which class all the methods and creates obje
 
 * OUTPUT:
 
-' ' '
+```
 <p>
   Creating Class
 
@@ -75,4 +75,4 @@ NONE
 
 
 </p>
-' ' ' 
+``` 

@@ -1,29 +1,29 @@
 Java programs to demonstrate concepts of OOP.
 ==============================================
 
-* REQUIREMENTS:
+* ## REQUIREMENTS:
 The programs are needed to be compiled before running them.
 1. Installing JAVA:
 
-'''bash
+' ' 'bash
 <p>sudo su
    yum install java-devel
 </p>
-'''
+' ' '
 
 * USAGE:
 First compile the programs in order to execute the classes.
 
-'''bash
+' ' 'bash
 <p>javac super1.java
    javac sub.java
 </p>
-'''
+' ' '
 
 Then to execute them,
-'''bash
+' ' 'bash
 <p>java sub</p>
-'''
+' ' '
 
 * DESCRIPTION:
 The following program file (sub.java) contains a code that implements certain concepts of 
@@ -48,31 +48,31 @@ The final method is the main method which class all the methods and creates obje
 
 * OUTPUT:
 
-'''
+' ' '
 <p>
   Creating Class
 
 Name-->justan00b
 Lucky number-->5
---------------------
+
 Inheritance
 
 Identity of Class 'sub'.
 Identity of Class 'super1'.
---------------------
+
 Polymorphism
 
 Function1 is without any formal parameters
 Function1 is not with formal parameter 'n' (int) having value 100
---------------------
+
 Data-Abstraction
 
 red
---------------------
+
 Encapsulation
 
 NONE
---------------------
+
 
 </p>
-'''
+' ' ' 
